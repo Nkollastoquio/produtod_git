@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  <h1 aling="center">produtod_git</h1>
 
 # descrição do projeto
@@ -17,4 +18,5 @@
 # Funcionalidade 
  
  * um site de produtos eletronicos com varios acessorios de informatica e etc... 
+
 
